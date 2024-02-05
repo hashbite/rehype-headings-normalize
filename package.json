@@ -15,6 +15,10 @@
   "keywords": [],
   "author": "Benedikt Rötsch <opensource@hashbite.net>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hashbite/rehype-headings-normalize.git"
+  },
   "dependencies": {
     "hast-util-heading-rank": "^3.0.0",
     "unist-util-visit": "^5.0.0"

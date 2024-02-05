@@ -13,11 +13,21 @@
     "LICENSE"
   ],
   "keywords": [],
-  "author": "Benedikt Rötsch <opensource@hashbite.net>",
-  "license": "ISC",
+  "license": "MIT",
+  "author": {
+    "name": "hashbite",
+    "email": "opensource@hashbite.net",
+    "url": "https://hashbite.net/"
+  },
+  "contributors": [
+    {
+      "name": "Benedikt Rötsch",
+      "email": "benedikt@hashbite.net"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hashbite/rehype-headings-normalize.git"
+    "url": "git+https://github.com/hashbite/rehype-headings-normalize"
   },
   "dependencies": {
     "hast-util-heading-rank": "^3.0.0",

@@ -41,7 +41,7 @@ rehype()
 
 ## Related
 
-*   [`rehype-shift`](https://github.com/rehypejs/rehype-shift-heading)
+*   [`rehype-shift-heading`](https://github.com/rehypejs/rehype-shift-heading)
     — Simple variant of this plugin, only supports shifting of headlines.
 
 ## Contribution

@@ -1,6 +1,9 @@
 # Rehype Headings Normalize
 
-`rehype-headings-normalize` is a Rehype plugin designed to automatically adjust and normalize the hierarchy of HTML headings in your documents. Crafted with human editors in mind, it corrects common mistakes such as misused or incorrectly leveled headings, ensuring your content is both semantically correct and SEO-friendly. This plugin is perfect for making all headlines hierarchy well-structured and Google happy, without the need for manual adjustments.
+> `rehype-headings-normalize` is a Rehype plugin designed to automatically adjust and normalize the hierarchy of HTML headings in your documents. Crafted with human editors in mind, it corrects common mistakes such as misused or incorrectly leveled headings, ensuring your content is both semantically correct and SEO-friendly. This plugin is perfect for making all headlines hierarchy well-structured and Google happy, without the need for manual adjustments.
+
+[![NPM Version Badge](https://badgen.net/npm/v/rehype-headings-normalize)](https://www.npmjs.com/package/rehype-headings-normalize)
+[![License Badge](https://badgen.net/npm/license/rehype-headings-normalize)](https://github.com/hashbite/rehype-headings-normalize/blob/main/LICENSE)
 
 ## Key Features
 

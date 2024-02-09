@@ -39,9 +39,10 @@ rehype()
 
 - `minimumLevel` (optional): Defines the minimum heading level (`1` through `6`) to ensure all headings are at least of this level. Defaults to `1` if not specified.
 
-## Compatibility
+## Related
 
-This plugin is designed to work seamlessly with the Rehype ecosystem, ensuring broad compatibility with HTML content transformation workflows. It is especially useful for projects and content management systems where HTML is generated or modified dynamically.
+*   [`rehype-shift`](https://github.com/rehypejs/rehype-shift-heading)
+    — Simple variant of this plugin, only supports shifting of headlines.
 
 ## Contribution
 
